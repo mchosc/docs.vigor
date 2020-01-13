@@ -1,0 +1,7 @@
+{
+  "docs": {
+    "User specs": ["usr-get-start", "usr-overview", "usr-dep-coll", "usr-borr-stable", "usr-dep-stable", "usr-borr-token", "usr-insur"],
+    "Development specs": ["dev-get-start", "dev-overview", "dev-tables", "dev-actions"],
+    "FAQs": ["release-notes"]
+  }
+  }
